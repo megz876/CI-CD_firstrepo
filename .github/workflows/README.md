@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
 ![Status Badge](https://github.com/megz876/CI-CD_firstrepo/actions/workflows/sample.yml/badge.svg)
 
 ## Getting Started
